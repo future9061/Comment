@@ -2,8 +2,9 @@ const express = require('express')
 const app = express()
 const port = 5000
 const path = require("path")
-const mongoose = require('mongoose');
-require('dotenv').config()
+const mongoose = require('mongoose')
+const dotenv = require("dotenv");
+dotenv.config()
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -18,7 +19,7 @@ app.listen(port, () => {
   console.log(`서버 시작 ${port}`)
 })
 
-mongoose.connect(process.env.MONGDB_URI)
+mongoose.connect(process.env.MONGDB_URI, { useNewUrlParser: true })
   .then(() => console.log('몽고DB 연결 성공!'))
   .catch((err) => console.log(err))
 
