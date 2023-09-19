@@ -14,6 +14,10 @@ client/node_modules
 
 client/build
 
+package.json
+package-lock.json
+node_modules
+
 .env
 .env.local
 .env.development.local
