@@ -17,7 +17,7 @@
 # 💻 프로젝트 소개
 
 <div align="center">
-   <img src="https://github.com/future9061/Comment/assets/132829711/8cb4a829-b9f0-45e2-b553-f9e098b5d666" width="700px">
+   <img src="https://github.com/future9061/Comment/assets/132829711/86dd63b6-2e3c-4734-b389-4063a7255036" width="700px">
 </div>
 
 #### 🤔 저의 깃허브를 방문한 사람들이 프로젝트나 코드를 본 후 그에 대한 코멘트를 받을 수 없다는 게 아쉬웠습니다. <br /> 방문자의 조언이나 격려를 받을 수 있다면 더 많은 동기유발이 될 수 있을 것 같아 제작한 Comment 프로젝트 입니다.
