@@ -22,7 +22,7 @@
 
 #### 🤔 저의 깃허브를 방문한 사람들이 프로젝트나 코드를 본 후 그에 대한 코멘트를 받을 수 없다는 게 아쉬웠습니다. <br /> 방문자의 조언이나 격려를 받을 수 있다면 더 많은 동기유발이 될 수 있을 것 같아 제작한 Comment 프로젝트 입니다.
 
-- `URI` : http://ec2-52-79-243-158.ap-northeast-2.compute.amazonaws.com:5000
+- `URI` : http://ec2-52-79-243-158.ap-northeast-2.compute.amazonaws.com:5000 (인스턴스 종료하였습니다.)
 - AWS EC2로 배포
 - 클라이언트는 react, 서버는 node.js, express 프레임 워크로 구축
 - 데이터는 몽고DB에 저장해 관리
